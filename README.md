@@ -1,3 +1,5 @@
+# CHIHIRO SIGNED
+
 # 🎭 AlterEgo - AI-Powered Virtual Assistant
 
 AlterEgo is a **C# desktop application** inspired by the *Danganronpa* series, featuring an AI assistant with **speech recognition**, **text-to-speech synthesis**, and **dynamic character animations**. This interactive assistant communicates using OpenAI's GPT model, bringing your AI conversations to life!
